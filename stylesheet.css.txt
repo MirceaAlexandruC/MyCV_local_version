@@ -1,0 +1,7 @@
+#EducationAndExperience {
+    float:left;
+}
+
+#ContactAndSkills{
+    float:right;
+}
